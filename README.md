@@ -1,2 +1,2 @@
-# linux-prog.
-INT MSC SEM 7
+# linux-programming
+INT MSC SEM 7 fourth year
